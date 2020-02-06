@@ -27,7 +27,7 @@ Vue.component('wsHeader', {
 })
 Vue.component('wsFooter', {
     //Simple string template
-    template: '<footer>&copy; Meija Lohiniva Laurea UAS</footer>'
+    template: '<footer>&copy; Meija Lohiniva Seinäjoki UAS</footer>'
 })
 Vue.component('exercise', {
     props: ['number', 'title', 'instructions', 'content'],

@@ -1,6 +1,6 @@
 <!--R0333 WS3 -->
 <template>
-    <footer>&copy; Meija Lohiniva Laurea UAS</footer>
+    <footer>&copy; Meija Lohiniva Seinäjoki UAS</footer>
 </template>
 
 <script>
